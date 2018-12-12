@@ -30,5 +30,5 @@ while abs(diff)>0:
 
   diff = sum_m - sum_n
 
-print(diff*2)
+print(diff)
 
