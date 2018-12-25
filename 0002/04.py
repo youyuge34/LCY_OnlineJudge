@@ -53,6 +53,8 @@ def InsertSort(array):
 	# 	array[j] = temp
 	# return array
 
+
+# 本地测试代码
 # arr = '12 56 34 3 3 78 12 29 49 84 51 9 100'
 # arr = list(map(int,arr.strip().split()))
 # res = InsertSort(arr[1:])
